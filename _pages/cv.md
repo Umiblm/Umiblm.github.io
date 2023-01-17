@@ -53,7 +53,7 @@ Participated in the summer internship in NetEase H42 Department and worked as a 
 
 Skills & Expertise
 ======
-* Analysis: 	MATLAB (machine learning, imaging processing), R (genetic analyses), Python (observational data analyses, regression models), Linux commands (to access HPC), C# (for Unity 3D scripting), SQL (with Linkedin certificates), Office 365, HTML/CSS (website development)
+* Programming: 	MATLAB (machine learning, imaging processing), R (genetic analyses), Python (observational data analyses, regression models), Linux commands (to access HPC), SQL (with Linkedin certificates), Office 365, HTML/CSS (website development), Unity 3D 
 * Data visualization: Graphpad Prism, R ggplot2, Matplotlib, Adobe Illustrator, Adobe Photoshop
 * Languages: Mandarin (native), English (native), Japanese (intermediate level)
 
