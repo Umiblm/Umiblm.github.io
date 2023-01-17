@@ -25,14 +25,14 @@ Awards & Honors
 Research Experience	
 ======
 
-**Computational, Cognitive and Clinical Neuroimaging Lab, Imperial College London, London, UK (02.2021 - 08.2021)**
+**Computational, Cognitive and Clinical Neuroimaging Lab, Imperial College London, London, UK (02.2021 - 08.2021)**\
 Investigate brain structure and its relationship to behaviour in trichotillomania (TTM) and skin picking disorder (SPD)
 * Pre-processed the T1 structural MRI and diffusion tensor imaging data using Freesurfer and FSL software, extracted different brain metrics (grey matter volume, cortical thickness, and fractional anisotropy).
 * Used a principle component analysis to identify important brain regions (e.g. fronto-striatal circuits) underlying the pathophysiology of TTM and SPD.
 * Performed canonical correlation analysis to see the differential brain-behavior relationship across groups.
 * Applied machine learning regression to predict clinical severity of TTM patients based on their brain metrics.
 
-**Cracking the Neural Code Program, Schnitzer’s Group, Stanford University, Palo Alto, CA, USA (04.2020 - 08.2020)**
+**Cracking the Neural Code Program, Schnitzer’s Group, Stanford University, Palo Alto, CA, USA (04.2020 - 08.2020)**\
 Large-scale transcriptomic analysis to investigate genes underpin interaction between microbiota and depression
 * Isolated cell type specific (astrocyte, neuron, microglia) genes, showing differential gene expression patterns affected by antidepressant and microbiota treatment.
 * Applied partial-least squares regression finding overlapped genes (Kcna2, Slc12a5) within neuron and microglia cells affected by treatments which could be the target for further mechanistic investigation.
