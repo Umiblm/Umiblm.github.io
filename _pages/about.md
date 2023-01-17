@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research student studying Neuroscience at [Stroke Research Group](https://www.neurology.cam.ac.uk/neurology-unit-research-groups/stroke-research-group/people/chutian-guo/), University of Cambridge, under the supervision of Professor Hugh Markus. My project theme is **investigate the genetic relationship between sleep and cerebral small vessel diseases (CSVD).**
+I am a graduate student studying Neuroscience at [Stroke Research Group](https://www.neurology.cam.ac.uk/neurology-unit-research-groups/stroke-research-group/people/chutian-guo/), University of Cambridge, under the supervision of Professor Hugh Markus. My project theme is **investigate the genetic relationship between sleep and cerebral small vessel diseases (CSVD).**
 
 CSVDs are disorders of small vessels that often lead to stroke and intracerebral hemorrhage. Sleep is an essential state for humans. Both short and long sleep duration are associated with cardiovascular dysfunction. Recent observational studies found that shorter sleep duration is associated with adverse stroke outcomes. However, whether these associations indeed result from actual biological pathways is still being determined. 
 
