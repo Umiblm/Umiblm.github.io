@@ -55,6 +55,6 @@ Skills & Expertise
 ======
 * Analysis: 	MATLAB (machine learning, imaging processing), R (genetic analyses), Python (observational data analyses, regression models), Linux commands (to access HPC), C# (for Unity 3D scripting), SQL (with Linkedin certificates), Office 365, HTML/CSS (website development)
 * Data visualization: Graphpad Prism, R ggplot2, Matplotlib, Adobe Illustrator, Adobe Photoshop
-* Languages: Mandarin (native), English (native)
+* Languages: Mandarin (native), English (native), Japanese (intermediate level)
 
 
