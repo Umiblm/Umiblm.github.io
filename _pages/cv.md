@@ -18,7 +18,7 @@ Education
 Awards & Honors
 ======
 * Ranked in the top 5% of majors in 2016-2019 Academic year (GPA 3.96) and won scholarship "**Deans' list of Academic Excellence**".
-* 25000 pounds/year scholarship funded by supervisor Professor Hugh Markus in Cambridge University.
+* £25000/year scholarship funded by supervisor Professor Hugh Markus in Stroke Research Group.
 
 
 
@@ -43,7 +43,7 @@ Intern Experience & Extracurricular Activities
 **NetEase Hangzhou Network Co Ltd, Hangzhou, Zhejiang, China (07.2022 - 10.2022)**\
 *Game Designer (System and battle design)*
 * Mini-game design for mid-autumn patch in Yimeng Jianghu 
-Participated in the summer internship in NetEase H42 Department and worked as a system designer, responsible for the new game of the Mid-Autumn Festival activity of Yimeng Jianghu (originally Chu Liuxiang). The mini game "Playing Lotus Cake" planned by the myself has been widely praised on the social media (Weibo, Red). 
+Participated in the summer internship in NetEase H42 Department and worked as a system designer, responsible for the new game of the Mid-Autumn Festival activity of 一梦江湖 (originally 楚留香). The mini game "打莲糕" planned by the myself has been widely praised on the social media (Weibo, Tieba). 
 * Demonstration: https://www.youtube.com/watch?v=K2IAxpQ8b74 
 
 **Department of Brand Development, Cambridge Chinese Scholar Society (10.2022 - 10.2023)**\
