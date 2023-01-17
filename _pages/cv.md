@@ -40,13 +40,13 @@ Large-scale transcriptomic analysis to investigate genes underpin interaction be
 
 Intern Experience & Extracurricular Activities
 ======
-**NetEase Hangzhou Network Co Ltd, Hangzhou, Zhejiang, China (07.2022 - 10.2022)**
+**NetEase Hangzhou Network Co Ltd, Hangzhou, Zhejiang, China (07.2022 - 10.2022)**\
 *Game Designer (System and battle design)*
 * Mini-game design for mid-autumn patch in Yimeng Jianghu 
 Participated in the summer internship in NetEase H42 Department and worked as a system designer, responsible for the new game of the Mid-Autumn Festival activity of Yimeng Jianghu (originally Chu Liuxiang). The mini game "Playing Lotus Cake" planned by the myself has been widely praised on the social media (Weibo, Red). 
 * Demonstration: https://www.youtube.com/watch?v=K2IAxpQ8b74 
 
-**Department of Brand Development, Cambridge Chinese Scholar Society (10.2022 - 10.2023)**
+**Department of Brand Development, Cambridge Chinese Scholar Society (10.2022 - 10.2023)**\
 *Executive Committee*
 * Manage to official accounts to promote Cambridge Chinese Scholar Society. Involved social media includes Red, Tiktok, Weibo, Instgram. Work includes writing media release, taking pictures and clipping short video. The fans for Red increased from 5000 to 20000, having received 40000+Likes and 7000+ favorites (still rapidly increasing).
 
