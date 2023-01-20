@@ -36,6 +36,7 @@ Investigate brain structure and its relationship to behaviour in trichotillomani
 Large-scale transcriptomic analysis to investigate genes underpin interaction between microbiota and depression
 * Isolated cell type specific (astrocyte, neuron, microglia) genes, showing differential gene expression patterns affected by antidepressant and microbiota treatment.
 * Applied partial-least square regression finding overlapped genes (Kcna2, Slc12a5) within neuron and microglia cells affected by treatments which could be the target for further mechanistic investigation.
+* Research has been published onto international journal [[doi]([http://dx.doi.org/10.1186/s13195-022-01095-4](http://www.ijbbb.org/index.php?m=content&c=index&a=show&catid=90&id=951))]
 
 Intern Experience & Extracurricular Activities
 ======
