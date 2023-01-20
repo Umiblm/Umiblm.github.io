@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Clinical Neurosciences, University of Cambridge, 2022-2025
+* PhD in Clinical Neurosciences, University of Cambridge, 2022-
 * Msc in Translational Neuroscience, Imperial College London, 2020-2021
 * Bachelor of Medical Science in Physiology, University of Sydney, 2016-2019
 
@@ -35,8 +35,7 @@ Investigate brain structure and its relationship to behaviour in trichotillomani
 **Cracking the Neural Code Program, Schnitzer’s Group, Stanford University, Palo Alto, CA, USA (04.2020 - 08.2020)**\
 Large-scale transcriptomic analysis to investigate genes underpin interaction between microbiota and depression
 * Isolated cell type specific (astrocyte, neuron, microglia) genes, showing differential gene expression patterns affected by antidepressant and microbiota treatment.
-* Applied partial-least squares regression finding overlapped genes (Kcna2, Slc12a5) within neuron and microglia cells affected by treatments which could be the target for further mechanistic investigation.
-
+* Applied partial-least square regression finding overlapped genes (Kcna2, Slc12a5) within neuron and microglia cells affected by treatments which could be the target for further mechanistic investigation.
 
 Intern Experience & Extracurricular Activities
 ======
