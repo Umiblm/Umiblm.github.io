@@ -14,6 +14,8 @@ CSVDs are disorders of small vessels that often lead to stroke and intracerebral
 
 The genetic discovery from GWAS allows the identification of variants associated with diseases and traits. Therefore, my project aims to use these genetic variants from GWAS of UK Biobank as instruments to predict the risk of CSVD traits/outcomes. We use cutting-edge bioinformatic and machine learning techniques which could identify causal genetic pathways between sleep and CSVD, which is very helpful for drug target development. 
 
+My research outcome has been published in <Neurology> as the first author (doi: https://doi.org/10.17863/CAM.104183).
+
 Besides, I am interested in video games, especially Japanese role-playing games and action games on PC and PS4. I want apply the information techniques I've learned to design interesting games. I am also trying to pursue a career as a game designer. I was accepted into NetEase Hangzhou Network Company Ltd last year as an intern, responsible for mini-game design. 
 
 ## University Profile
