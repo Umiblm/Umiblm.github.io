@@ -29,7 +29,7 @@ Using observational and genetic data to investigate causal relationship between 
 * Big data analysis to genetic data (genome-wide association studies) to sleep characteristics through University cloud server 
 * In Python, analyzed UK Biobank observational data and found significant association between sleep and stroke
 * Performed causal analyses to genetic data and found association between insomnia and ischemic stroke
-* The manuscript has been accepted to the journal “Neurology” (doi:https://doi.org/10.17863/CAM.104183)
+* The manuscript has been accepted to the journal “Neurology” (doi: https://doi.org/10.17863/CAM.104183)
   
 **Computational, Cognitive and Clinical Neuroimaging Lab, Imperial College London, London, UK (02.2021 - 08.2021)**\
 Investigate brain structure and its relationship to behaviour in trichotillomania (TTM) and skin picking disorder (SPD)
