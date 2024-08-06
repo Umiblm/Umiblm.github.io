@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MPhil in Clinical Neurosciences, University of Cambridge, 2022-
+* MPhil in Clinical Neurosciences, University of Cambridge, 2022-2024
 * Msc in Translational Neuroscience, Imperial College London, 2020-2021
 * Bachelor of Medical Science in Physiology, University of Sydney, 2016-2019
 
@@ -19,8 +19,7 @@ Awards & Honors
 ======
 * Ranked in the top 5% of majors in 2016-2019 Academic year (GPA 3.96) and won scholarship "**Deans' list of Academic Excellence**".
 * £25000/year scholarship funded by supervisor Professor Hugh Markus in Stroke Research Group.
-
-
+* International Conference on Neurology & Brain Disorders-2024 presentation speaker
 
 Research Experience	
 ======
