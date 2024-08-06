@@ -29,6 +29,6 @@ Besides, I am interested in video games, especially Japanese role-playing games 
 * Data Science
 
 ## Contact
-Email: cg773@medschl.cam.ac.uk or tcg409374456@gmail.com
+Email: cg773@cantab.ac.uk or tcg409374456@gmail.com
 
-Phone: +81 2305 6888
+Phone: +81 70 2305 6888
